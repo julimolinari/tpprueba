@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1554509023 source:c:\users\julieta.molinari\desktop\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1554509313 source:c:\users\julieta.molinari\desktop\tp1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"funciones.h"
+
+1554507386 c:\users\julieta.molinari\desktop\tp1\funciones.h
+
